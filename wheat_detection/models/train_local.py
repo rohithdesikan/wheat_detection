@@ -3,6 +3,7 @@
 import os
 import numpy as np
 import pandas as pd
+import logging
 
 # Import viz packages
 import matplotlib.pyplot as plt

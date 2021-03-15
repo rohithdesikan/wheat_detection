@@ -5,6 +5,9 @@ import json
 import logging
 import os
 import sys
+import csv
+import ast
+
 from PIL import Image
 
 # Import PyTorch packages
